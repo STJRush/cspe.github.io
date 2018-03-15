@@ -1,5 +1,9 @@
-<h1 style="text-align:center;">About</h1>
+background-position: right bottom, left top; 
+background-image: url(https://www.google.ie/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwj_j5aKje7ZAhWjKsAKHW-MCWwQjRwIBg&url=https%3A%2F%2Ftwitter.com%2Fstjosephsrush&psig=AOvVaw2WOMlpA0A9Fqivno4g-DZ5&ust=1521195526477919);
+
+<h1 style="text-align:center;">Aboutbackground-image: url();<h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
+
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
