@@ -1,8 +1,5 @@
-
-
 <h1 style="text-align:center;">Aboutbackground-image: url();<h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
-
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
