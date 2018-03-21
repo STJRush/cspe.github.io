@@ -1,5 +1,6 @@
 <h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
+   <img src="http://www.dissolvingboundaries.org/89/St_Josephs_Secondary_School_school.html ">
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
