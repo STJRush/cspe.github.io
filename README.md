@@ -6,18 +6,7 @@
    <li><a href="https://lukedoyle03.github.io/cspe.github.io/">Action project</a></li>
  </ul> 
 
-<p style="color:Tomato;">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is based around politics and the enviroment.There are 7 mai>Aboutbackground-image: url();<h1 style="text-align:center;">About</h1>
-   <strong>C.S.P.E</strong> 
-
- <ul>
-   <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
-   <li><a href="https://lukedoyle03.github.io/cspe.github.io/">Action project</a></li>
- </ul> 
-
 <p style="color:Tomato;">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is based around politics and the enviroment.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
- 
-<p style="color:Tomato;">Rights & Responsibilities
-Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.n parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
  
 <p style="color:Tomato;">Rights & Responsibilities
 Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.
