@@ -11,6 +11,8 @@ body {
 </style>
 </head>
 
+body {background-color: light blue;}
+
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
    <li><a href="https://lukedoyle03.github.io/cspe.github.io/">Action project</a></li>
