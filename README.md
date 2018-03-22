@@ -1,7 +1,7 @@
 <h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
 body {
-    background-image: url("wp-content/uploads/2015/06/Jubilee-Logo-150x150.jpg");
+    background-image: url("http://www.dissolvingboundaries.org/assets/media/schools/St%20Josephs%20S.S.jpg");
     background-repeat: no-repeat;
     background-position: right top;
     margin-right: 201px;
