@@ -11,7 +11,13 @@ body {
 </style>
 </head>
 
-body {background-color: light blue;}
+<head>
+<style>
+body {
+    background-color: light blue;
+}
+</style>
+</head>
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
