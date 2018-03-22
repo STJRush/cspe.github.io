@@ -3,7 +3,7 @@
    <head>
 <style>
 body { 
-    background-image: url('w3css.gif');
+    background-image: url('');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center; 
@@ -11,13 +11,9 @@ body {
 </style>
 </head>
 
-<head>
-<style>
 body {
-    background-color: light blue;
+    background-color: lightblue;
 }
-</style>
-</head>
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
