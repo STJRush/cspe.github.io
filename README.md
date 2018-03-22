@@ -1,5 +1,13 @@
 <h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
+   <style>
+body { 
+    background-image: ('https://www.google.ie/imgres?imgurl=http%3A%2F%2Fwww.dissolvingboundaries.org%2Fassets%2Fmedia%2Fschools%2FSt%2520Josephs%2520S.S.jpg&imgrefurl=http%3A%2F%2Fwww.dissolvingboundaries.org%2F89%2FSt_Josephs_Secondary_School_school.html&docid=klipeXzsKkZsiM&tbnid=Fu-YmmBmC-Tk9M%3A&vet=10ahUKEwiXtrr-1v_ZAhUCPsAKHWSFBxUQMwg0KAAwAA..i&w=300&h=291&bih=662&biw=1366&q=st%20josephs%20rush%20crest&ved=0ahUKEwiXtrr-1v_ZAhUCPsAKHWSFBxUQMwg0KAAwAA&iact=mrc&uact=8');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top right; 
+}
+
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
