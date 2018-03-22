@@ -1,18 +1,12 @@
 <h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
-body {
-    background-image: url("http://www.dissolvingboundaries.org/assets/media/schools/St%20Josephs%20S.S.jpg");
-    background-repeat: no-repeat;
-    background-position: right top;
-    margin-right: 201px;
-}
 
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
    <li><a href="https://lukedoyle03.github.io/cspe.github.io/">Action project</a></li>
  </ul> 
 
-<p style="color:Tomato;">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is based around politics and the enviroment.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
+<p style="color:Tomato;">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is mainly based around politics.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
  
 <p style="color:Tomato;">Rights & Responsibilities
 Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.
@@ -41,4 +35,11 @@ Topics include An Garda Siochana, the courts system, the prison system
 <p style="color:Tomato;">Interdependence
 The way in which we are connected with others in the world
 Topics include The European Union, the United Nations, Fair Trade
- 
+   
+<h1 style="text-align:center;">Examination</h1>
+   
+ <p style="color:Tomato;">A total of 40% of the marks in the exam are awarded for a written theory test, which includes such things as producing a poster, letter or article on a CSPE topic (such as poverty, racism, discrimination, etc.) and interpreting opinion polls.The written exam also has a number of short questions
+
+<p style="color:Tomato;">The remaining 60% of the marks are given for a report on an Action Project performed by an entire class of students at a time. This has to be based on one of the core topics - e.g. workers rights, environmentalism, racism, human rights, etc
+   
+
