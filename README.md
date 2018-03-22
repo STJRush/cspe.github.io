@@ -4,7 +4,7 @@ body {
     background-image: url("http://www.stjosephsrush.ie/wp-content/uploads/2015/06/Jubilee-Logo-150x150.jpg");
     background-repeat: no-repeat;
     background-position: right top;
-    margin-right: 200px;
+    margin-right: 201px;
 }
 
  <ul>
