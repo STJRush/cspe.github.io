@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<img src="http://www.stjosephsrush.ie/wp-content/uploads/2018/03/schoolbanner3.png"  width="500" height="200">
+<img src="http://www.stjosephsrush.ie/wp-content/uploads/2018/03/schoolbanner3.png"  width="7000" height="200">
 
 
 <h1 style="text-align:center;">About</h1>
