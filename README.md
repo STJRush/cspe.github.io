@@ -1,3 +1,9 @@
+<html>
+<body>
+
+<img src="http://www.stjosephsrush.ie/wp-content/uploads/2018/03/schoolbanner3.png"  width="500" height="200">
+
+
 <h1 style="text-align:center;">About</h1>
    <strong>C.S.P.E</strong> 
 
@@ -19,7 +25,7 @@ Topics include Homelessness, bullying, refugees
 <p style="color:Tomato;">Stewardship
 Caring responsibly for our environment and the planet on which we live
 Topics include Recycling, global warming, the ozone layer
- 
+    
 <p style="color:Tomato;">Development
 Improvements taking place in local, national or international communities
 Topics include Tackling poverty in Africa, Third World Debt problems, regional development in Ireland
@@ -38,8 +44,8 @@ Topics include The European Union, the United Nations, Fair Trade
    
 <h1 style="text-align:center;">Examination</h1>
    
- <p style="color:Tomato;">A total of 40% of the marks in the exam are awarded for a written theory test, which includes such things as producing a poster, letter or article on a CSPE topic (such as poverty, racism, discrimination, etc.) and interpreting opinion polls.The written exam also has a number of short questions
+<p style="color:Tomato;">A total of 40% of the marks in the exam are awarded for a written theory test, which includes such things as producing a poster, letter or article on a CSPE topic (such as poverty, racism, discrimination, etc.) and interpreting opinion polls.The written exam also has a number of short questions
 
 <p style="color:Tomato;">The remaining 60% of the marks are given for a report on an Action Project performed by an entire class of students at a time. This has to be based on one of the core topics - e.g. workers rights, environmentalism, racism, human rights, etc
-   
-
+</body>
+</html>
