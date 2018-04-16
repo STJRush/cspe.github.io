@@ -1,4 +1,33 @@
 <html>
+<head>
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+</style>
+</head>
+
+<html>
 <body>
 
 <img src="http://www.stjosephsrush.ie/wp-content/uploads/2018/03/schoolbanner3.png"  width="7000" height="200">
