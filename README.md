@@ -99,9 +99,6 @@ Topics include The European Union, the United Nations, Fair Trade
     
  <body>
 
-<img src="https://www.schoolbooks365.ie/image/cache/catalog/AAA/CSPE%20JC-500x500.jpg" width="500" height="450">
+<img src="https://www.schoolbooks365.ie/image/cache/catalog/AAA/CSPE%20JC-500x500.jpg" width="250" height="250">
 
 </body>
- 
-</body>
-</html>
