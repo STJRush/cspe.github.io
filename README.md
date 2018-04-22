@@ -96,5 +96,12 @@ Topics include The European Union, the United Nations, Fair Trade
 <p class="italic">A total of 40% of the marks in the exam are awarded for a written theory test, which includes such things as producing a poster, letter or article on a CSPE topic (such as poverty, racism, discrimination, etc.) and interpreting opinion polls.The written exam also has a number of short questions
 
 <p class="italic">The remaining 60% of the marks are given for a report on an Action Project performed by an entire class of students at a time. This has to be based on one of the core topics - e.g. workers rights, environmentalism, racism, human rights, etc
+    
+ <body>
+
+<img src="https://www.schoolbooks365.ie/image/cache/catalog/AAA/CSPE%20JC-500x500.jpg" width="500" height="450">
+
+</body>
+ 
 </body>
 </html>
