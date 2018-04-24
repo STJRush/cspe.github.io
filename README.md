@@ -62,8 +62,6 @@ li a:hover {
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
    <li><a href="https://lukedoyle03.github.io/cspe.github.io/">Action project</a></li>
  </ul> 
- 
- <ul style="list-style-type:disc">
 
 <p class="italic">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is mainly based around politics.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
  
