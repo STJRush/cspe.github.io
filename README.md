@@ -4,7 +4,7 @@
 
 <head>
 <style>
-h1,p{
+h1,p,li{
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
@@ -61,6 +61,7 @@ li a:hover {
  <ul>
    <li><a class="active" href="https://stjrush.github.io/cspe.github.io/">About</a></li>
    <li><a href="https://lukedoyle03.github.io/cspe.github.io/">Action project</a></li>
+    <li><a href="https://www.curriculumonline.ie/getmedia/b4cf7fd4-46d0-4595-baa9-f6c38923c75f/JCSEC04_CSPE_Syllabus.pdf">C.S.P.E syllabus</a></li>
  </ul> 
 
 <p class="italic">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is mainly based around politics.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
