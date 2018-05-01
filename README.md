@@ -11,10 +11,10 @@
   width: 150px;
   height: 150px;
   margin: -75px 0 0 -75px;
-  border: 16px solid orange;
+  border: 16px solid red;
   border-radius: 50%;
-  border-top: 16px solid green;
-  border-left: 16px solid white;
+  border-top: 16px solid red;
+  border-left: 16px solid red;
   width: 120px;
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
@@ -63,7 +63,7 @@
 <div style="display:none;" id="myDiv" class="animate-bottom">
   <head>
 <style>
-h1,p,li{
+h1,ul,li{
     color: white;
     text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 }
