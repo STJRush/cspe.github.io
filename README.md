@@ -161,7 +161,9 @@ Topics include The European Union, the United Nations, Fair Trade
     
  <body>
 
-<img src="https://www.schoolbooks365.ie/image/cache/catalog/AAA/CSPE%20JC-500x500.jpg" width="250" height="250">
+<a href="https://www.studyclix.ie/content/file/pdfs/2/2c86ac06-807e-415f-9e3a-8103f1a80060.pdf">
+  <img src="https://cdn.shopify.com/s/files/1/1837/8517/products/edco-exam-papers-incl-2017-exam-junior-cert-cspe-higher-ordinary-levels.jpg?v=1518062985" alt="HTML tutorial" style="width:250px;height:250px;border:0">
+</a>
 
 </body>
 
