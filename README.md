@@ -14,7 +14,9 @@
   border: 16px solid red;
   border-radius: 50%;
   border-top: 16px solid red;
-  border-left: 16px solid red;
+  border-left: 16px solid white;
+  border-bottom: 16px solid red;
+  border-right: 16px solid white;
   width: 120px;
   height: 120px;
   -webkit-animation: spin 2s linear infinite;
