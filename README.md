@@ -125,41 +125,41 @@ li a:hover {
     <li><a href="https://www.curriculumonline.ie/getmedia/b4cf7fd4-46d0-4595-baa9-f6c38923c75f/JCSEC04_CSPE_Syllabus.pdf">C.S.P.E syllabus</a></li>
  </ul> 
 
-<p class="italic">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is mainly based around politics.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them
+<p><font face="verdana" font size="4" color="blue">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is mainly based around politics.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them</font></p>
  
-<p class="italic">Rights & Responsibilities
-Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.
-Topics include Children’s rights, prisoners of conscience, torture
+Rights & Responsibilities
+<p><font face="verdana" font size="4" color="blue">Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.
+Topics include Children’s rights, prisoners of conscience, torture</font></p>
  
 <p class="italic">Human Dignity
-Every human being has the right to live their lives with dignity and to be treated with respect.
-Topics include Homelessness, bullying, refugees
+<p><font face="verdana" font size="4" color="blue">Every human being has the right to live their lives with dignity and to be treated with respect.
+Topics include Homelessness, bullying, refugees</font></p>
  
 <p class="italic">Stewardship
-Caring responsibly for our environment and the planet on which we live
-Topics include Recycling, global warming, the ozone layer
+<p><font face="verdana" font size="4" color="blue">Caring responsibly for our environment and the planet on which we live
+Topics include Recycling, global warming, the ozone layer</font></p>
     
 <p class="italic">Development
-Improvements taking place in local, national or international communities
-Topics include Tackling poverty in Africa, Third World Debt problems, regional development in Ireland
+<p><font face="verdana" font size="4" color="blue">Improvements taking place in local, national or international communities
+Topics include Tackling poverty in Africa, Third World Debt problems, regional development in Ireland</font></p>
  
 <p class="italic">Democracy
 Citizens voting to elect people to represent them in government
-Topics include Elections, Dail Eireann, Local Government
+Topics include Elections, Dail Eireann, Local Government</font></p>
  
 <p class="italic">Law
-The rules and laws necessary to protect citizens. How laws are made, upheld, and the consequences of breaking the law.
-Topics include An Garda Siochana, the courts system, the prison system
+<p><font face="verdana" font size="4" color="blue">The rules and laws necessary to protect citizens. How laws are made, upheld, and the consequences of breaking the law.
+Topics include An Garda Siochana, the courts system, the prison system</font></p>
  
 <p class="italic">Interdependence
-The way in which we are connected with others in the world
-Topics include The European Union, the United Nations, Fair Trade
+<p><font face="verdana" font size="4" color="blue">The way in which we are connected with others in the world
+Topics include The European Union, the United Nations, Fair Trade</font></p>
    
 <h1 style="text-align:center;">Examination</h1>
    
-<p class="italic">A total of 40% of the marks in the exam are awarded for a written theory test, which includes such things as producing a poster, letter or article on a CSPE topic (such as poverty, racism, discrimination, etc.) and interpreting opinion polls.The written exam also has a number of short questions
+<p><font face="verdana" font size="4" color="blue">A total of 40% of the marks in the exam are awarded for a written theory test, which includes such things as producing <p><font face="verdana" font size="4" color="blue">a poster, letter or article on a CSPE topic (such as poverty, racism, discrimination, etc.) and interpreting opinion polls.The written exam also has a number of short questions</font></p>
 
-<p class="italic">The remaining 60% of the marks are given for a report on an Action Project performed by an entire class of students at a time. This has to be based on one of the core topics - e.g. workers rights, environmentalism, racism, human rights, etc
+<p><font face="verdana" font size="4" color="blue">The remaining 60% of the marks are given for a report on an Action Project performed by an entire class of students at a time. This has to be based on one of the core topics - e.g. workers rights, environmentalism, racism, human rights, etc</font></p>
     
  <body>
 
