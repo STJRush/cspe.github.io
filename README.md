@@ -170,8 +170,6 @@ Topics include The European Union, the United Nations, Fair Trade</font></p>
 
 </body>
 
-</div>
-
 <script>
 var myVar;
 
