@@ -127,32 +127,33 @@ li a:hover {
 
 <p><font face="verdana" font size="4" color="blue">cspe is a subject taught in our school. It is taught from 1st-3rd year once a week.It is mainly based around politics.There are 7 main parts to the course these are Law, Interdepedence, Democracy, Stewardship, Rights and Responsibilities, Human Dignity and Development these will be explained below with examples of topics within them</font></p>
  
-Rights & Responsibilities
-<p><font face="verdana" font size="4" color="blue">Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.
+<p><font face="verdana" font size="4" color="blue">Rights & Responsibilities
+Every human being is entitled to basic rights, but we also have a responsibility to others, and there is a constant need to safeguard peoples’ rights.
 Topics include Children’s rights, prisoners of conscience, torture</font></p>
  
-<p class="italic">Human Dignity
-<p><font face="verdana" font size="4" color="blue">Every human being has the right to live their lives with dignity and to be treated with respect.
+<p><font face="verdana" font size="4" color="blue">Human Dignity
+Every human being has the right to live their lives with dignity and to be treated with respect.
 Topics include Homelessness, bullying, refugees</font></p>
  
-<p class="italic">Stewardship
-<p><font face="verdana" font size="4" color="blue">Caring responsibly for our environment and the planet on which we live
+<p><font face="verdana" font size="4" color="blue">Stewardship
+Caring responsibly for our environment and the planet on which we live
 Topics include Recycling, global warming, the ozone layer</font></p>
     
-<p class="italic">Development
-<p><font face="verdana" font size="4" color="blue">Improvements taking place in local, national or international communities
+<p><font face="verdana" font size="4" color="blue">Development
+Improvements taking place in local, national or international communities
 Topics include Tackling poverty in Africa, Third World Debt problems, regional development in Ireland</font></p>
  
-<p class="italic">Democracy
+<p><font face="verdana" font size="4" color="blue">Democracy
 Citizens voting to elect people to represent them in government
 Topics include Elections, Dail Eireann, Local Government</font></p>
  
-<p class="italic">Law
-<p><font face="verdana" font size="4" color="blue">The rules and laws necessary to protect citizens. How laws are made, upheld, and the consequences of breaking the law.
+<p><font face="verdana" font size="4" color="blue">Law
+The rules and laws necessary to protect citizens. How laws are made, upheld, and the consequences of breaking the law.
 Topics include An Garda Siochana, the courts system, the prison system</font></p>
  
-<p class="italic">Interdependence
-<p><font face="verdana" font size="4" color="blue">The way in which we are connected with others in the world
+<p class="italic">
+<p><font face="verdana" font size="4" color="blue">Interdependence
+The way in which we are connected with others in the world
 Topics include The European Union, the United Nations, Fair Trade</font></p>
    
 <h1 style="text-align:center;">Examination</h1>
